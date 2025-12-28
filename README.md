@@ -1,0 +1,7 @@
+![dashboard](https://github.com/user-attachments/assets/77b60104-90f8-4cb9-a167-37fdd90c4ab6)
+![edit](https://github.com/user-attachments/assets/0e0aa53d-ddca-4cf8-ba8c-380c0ff60b14)
+![editmodal](https://github.com/user-attachments/assets/fa51699e-2c9e-449c-9169-7197bdce7bd6)
+![gender](https://github.com/user-attachments/assets/21eaec83-6ce4-48f9-a3e8-7ab7f35e5082)
+![bulan](https://github.com/user-attachments/assets/6647d0f8-e299-45a5-87fb-9ddb4e0b20e6)
+![tempatlahir](https://github.com/user-attachments/assets/cbf3f840-5548-4101-8a16-482af725bbc3)
+![perkawinan](https://github.com/user-attachments/assets/158adcd6-00d7-4c60-ab97-6216583e8cfe)
